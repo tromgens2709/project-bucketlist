@@ -1,3 +1,3 @@
 # project-bucketlist
-List of possible projects for Thieu
-Used to get to know how to use opensource projects with github
+List of possible projects for Thieu.
+Purpose: to get to know how to use opensource projects with github
